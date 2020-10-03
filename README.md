@@ -12,7 +12,7 @@ docutils.
 
 - [contohRST.rst](contohRST.rst)
 
-![](contohRST.png)
+![](contohRST.PNG)
 
 - [convert.py](convert.py)
 
@@ -24,4 +24,4 @@ $ rst2html.py --stylesheet=docutils_basic.css contohRST.rst contohRST.html
 
 - [contohRST.html](contohRST.html)
 
-![](contohHTML.png)
+![](contohHTML.PNG)

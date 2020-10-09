@@ -1,10 +1,10 @@
 Docutils
 =================================================================================
 
-.. contents:: Daftar Isi
-
 Repository ini berisi template untuk mengubah rst file ke html menggunakan
 docutils.
+
+.. contents:: Daftar Isi
 
 Install Docutils
 ---------------------------------------------------------------------------------
@@ -36,5 +36,6 @@ Hasil Konversi
 Stylesheet
 ---------------------------------------------------------------------------------
 
+- `docutils-css <https://github.com/matthiaseisen/docutils-css>`_
 - `github-pandoc.css <https://gist.githubusercontent.com/dashed/6714393/raw/ae966d9d0806eb1e24462d88082a0264438adc50/github-pandoc.css>`_
 
